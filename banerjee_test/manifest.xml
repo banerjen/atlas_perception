@@ -1,0 +1,20 @@
+<package>
+  <description brief="banerjee_test">
+
+     banerjee_test
+
+  </description>
+  <author>Nandan Banerjee</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/banerjee_test</url>
+  <depend package="roscpp"/>
+  <depend package="rospy"/>
+  <depend package="std_msgs"/>
+  <depend package="pcl"/>
+  <depend package="pcl_ros"/>
+  <depend package="cv_bridge"/>
+
+</package>
+
+
